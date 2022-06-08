@@ -4,6 +4,6 @@ Are you a linguist and tired of images and tables floating around in your papers
 
 ![This is an image of a tree diagram](files/images/image1.png)
 
-Look no further, you're in the right place! 🥳 
+Look no further, you're in the right place! 🥳 In this course, I'll teach you how to use [LaTeX](https://www.latex-project.org/), a high-quality typesetting system, to write about linguistics and more generally the humanities.
 
-In this course, I'll teach you how to use [LaTeX](https://www.latex-project.org/), a high-quality typesetting system, to write about linguistics and more generally the humanities.
+> **LaTeX for linguists** has no prerequisites. You'll just need your computer and an internet connection. Once you've read about the structure of the course below, just move to the 'Chapters' folder and start learning!
