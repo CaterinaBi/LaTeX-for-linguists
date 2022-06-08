@@ -23,4 +23,5 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 - [Handling tables](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter3/Handling%20tables.mdx)
 5. Chapter 4
 - [Basic tree diagrams](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter4/Basic%20tree%20diagrams.mdx)
-9. Chapter 5
+6. Chapter 5
+- [Advanced features for tree diagrams](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter5/Advanced%20features%20for%20tree%20diagrams.mdx)
