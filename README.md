@@ -18,6 +18,9 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 - [Dissertation layout](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter1/Dissertation%20layout.mdx)
 3. Chapter 2
 - [Text editing functions](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter2/Text%20editing%20functions.mdx)
-7. Chapter 3
-8. Chapter 4
+4. Chapter 3
+- [Handling images](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter3/Handling%20images.mdx)
+- [Handling tables](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter3/Handling%20tables.mdx)
+5. Chapter 4
+- [Basic tree diagrams](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter4/Basic%20tree%20diagrams.mdx)
 9. Chapter 5
