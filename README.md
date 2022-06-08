@@ -17,7 +17,7 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 - [Article layout](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter1/Article%20layout.mdx)
 - [Dissertation layout](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter1/Dissertation%20layout.mdx)
 3. Chapter 2
-
+- [Text editing functions](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter2/Text%20editing%20functions.mdx)
 7. Chapter 3
 8. Chapter 4
 9. Chapter 5
