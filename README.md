@@ -11,7 +11,7 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 ## 🌳 Structure 🌳
 
 1. Intro
-- Why LaTeX
+- [Why LaTeX](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/intro/Why%20LaTeX.ipynb)
 - Environment setup
 3. Chapter 1
 4. Chapter 2
