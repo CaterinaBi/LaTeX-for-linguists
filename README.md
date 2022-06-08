@@ -11,8 +11,10 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 ## 🌳 Structure 🌳
 
 1. Intro
-2. Chapter 1
-3. Chapter 2
-4. Chapter 3
-5. Chapter 4
-6. Chapter 5
+- Why LaTeX
+- Environment setup
+3. Chapter 1
+4. Chapter 2
+5. Chapter 3
+6. Chapter 4
+7. Chapter 5
