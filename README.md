@@ -8,7 +8,7 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 
 > **LaTeX for linguists** has no prerequisites. You'll just need your computer and an internet connection. Once you've read about the structure of the course below, just move to the 'Chapters' folder and start learning!
 
-## Structure 🌳
+## 🌳 Structure 🌳
 
 1. Intro
 2. Chapter 1
