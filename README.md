@@ -12,9 +12,12 @@ Look no further, you're in the right place! 🥳 In this course, I'll teach you 
 
 1. Intro
 - [Why LaTeX](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/intro/Why%20LaTeX.ipynb)
-- Environment setup
-3. Chapter 1
-4. Chapter 2
-5. Chapter 3
-6. Chapter 4
-7. Chapter 5
+- [Environment setup](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/intro/Environment%20setup.mdx)
+2. Chapter 1
+- [Article layout](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter1/Article%20layout.mdx)
+- [Dissertation layout](https://github.com/CaterinaBi/LaTeX-for-linguists/blob/main/chapters/chapter1/Dissertation%20layout.mdx)
+3. Chapter 2
+
+7. Chapter 3
+8. Chapter 4
+9. Chapter 5
